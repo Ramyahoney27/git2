@@ -1,0 +1,30 @@
+Project Title: Wine Quality Prediction
+
+Description:
+This project aims to predict the quality of wines based on various features, such as acidity, sulfur dioxide levels, and alcohol content. We utilize a dataset containing wine samples with associated quality ratings. The goal is to build a machine learning model that can classify wines into 'low,' 'medium,' or 'high' quality categories.
+
+Additionally, we will assess the accuracy of our wine quality predictions. Accuracy is a key performance metric that indicates the model's ability to correctly classify wines into their respective quality categories. It will help us evaluate the effectiveness of the model in practical use.
+
+Data Source:
+The dataset used in this project is sourced from [https://www.kaggle.com/code/oykuer/wine-quality-prediction-0-92?scriptVersionId=104401122&cellId=7].
+
+Methodology:
+- Data preprocessing: Handling missing values, outlier removal, and one-hot encoding.
+- Model: Utilizing a Random Forest Classifier for quality prediction.
+- Hyperparameter tuning: Employing RandomizedSearchCV to find optimal model parameters.
+
+Libraries and Tools:
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Scikit-Learn
+
+For any inquiries, questions, or further discussions about this project, feel free to contact me:
+
+- Email     : bramya2701@gmail.com
+- LinkedIn  : https://in.linkedin.com/in/ramya-b-865a30261
+
+
+
+
